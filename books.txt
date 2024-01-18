@@ -1,0 +1,70 @@
+Emma Thompson
+Schatten des Vergessens
+Lumina Verlag
+978-1-234567-89-0
+19.99
+150
+Lucas Martinez
+
+Der Silberne Schlüssel
+Sternenlicht Verlag
+978-2-345678-90-1
+24.99
+200
+Isabella Rossi
+
+Die verlorene Melodie
+Arcadia Books
+978-3-456789-01-2
+17.50
+120
+James Turner
+
+Die Zeitreisende
+Quantum Press
+978-4-567890-12-3
+22.50
+80
+Aisha Patel
+
+Jenseits der Sterne
+Nebula Verlag
+978-5-678901-23-4
+20.00
+160
+Benjamin Harper
+
+Das Geheimnis der Smaragdküste
+Mystik Books
+978-6-789012-34-5
+18.75
+140
+Sophia Chang
+
+Die letzten Tage von Avalon"
+Legendärer Verlag
+978-7-890123-45-6
+25.50
+190
+Nikolai Ivanov
+
+Der Drachenflüsterer
+Epos Verlag
+978-8-901234-56-7
+21.25
+130
+Olivia Grant
+
+Der magische Zirkel
+Enigma Books
+978-9-012345-67-8
+23.00
+170
+Marcus Wright
+
+Die Schatten von Eldoria
+Dämmerungs Verlag
+978-0-123456-78-9
+19.00
+110
+Steffen Bause
